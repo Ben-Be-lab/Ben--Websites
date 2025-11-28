@@ -2,7 +2,7 @@ import React from 'react'
 import logo1 from './../assets/logo1.png'
 const Navbar = () => {
   return (
-    <nav className='flex justify-between bg-green-500'>
+    <nav className='flex justify-between bg-white-500'>
       <div className='grid grid-cols-3 gap-x-100'>
         <div>
             <img src={logo1} width={100} height={100} alt="logo"/>
