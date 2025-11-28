@@ -44,3 +44,4 @@ const ServicesCard = ({ title, description, bgImage }) => {
     </div>
   );
 };
+export default ServicesCard;
