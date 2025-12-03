@@ -13,10 +13,10 @@ const ContactLast = () => {
 
 
       </div>
-      <div >
+      <div>
         <div className="h-[100vh] bg-cover bg-right bg-gray text-white" style={{ backgroundImage: `url(${contactphoto})` }}>
-          <h2 className='font-bold'>Transform Your Space with Our Cleaning Magic</h2>
-          <p>Sample text. Click to select the Text Element.</p>
+          <h2 className='font-bold py-2 px-10'>Transform Your Space with Our Cleaning Magic</h2>
+          <p className='py-2 px-10'>Sample text. Click to select the Text Element.</p>
 <div>
   <Button1 />
 </div>

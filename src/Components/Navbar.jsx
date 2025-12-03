@@ -17,7 +17,7 @@ const Navbar = () => {
 
         <div className='grid grid-cols-2 gap-100'>
           
-          <div>
+          <div className='px-20'>
             <img src={logo1} alt="logo" />
           </div>
           <div className='grid grid-cols-2 gap-6 text-right'>
@@ -25,7 +25,7 @@ const Navbar = () => {
             <Link to={"service"} >service</Link>
           </div>
           <div>
-            <Link to={"/"} >contact</Link>
+            <Link to={"Contact"} >contact</Link>
           </div>
           </div>
           
