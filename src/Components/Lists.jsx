@@ -5,7 +5,7 @@ const Lists = () => {
         <>
             <section className='grid grid-cols-2'>
                 <div>
-                    <ul className='flex flex-col gap-8'>
+                    <ul className='flex flex-col gap-8 px-10'>
                         <div>
                             <li>Istanbul </li>
                             <li>Moskow </li>

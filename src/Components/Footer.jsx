@@ -3,15 +3,15 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer>
-      <section className='grid grid-cols-2'>
+      <div className='grid grid-rows-2 bg-black text-white mt-10 text-center px-10'>
         <div>
-          <p>Sample text. Click to select the Text Element.</p>
+          <p className='mt-20'>Sample text. Click to select the Text Element.</p>
         </div>
-        <div>
+        <div className='mt-20 py-10'>
           <p>This site was created with the Nicepage </p>
         </div>
 
-      </section>
+      </div>
 
     </footer>
   )

@@ -1,12 +1,15 @@
 import React from 'react'
-import Ourservices from '../Components/Ourservices'
+
 
 const Home = () => {
-  return (
-    <div>
-     <Ourservices/> 
-    </div>
-  )
+    return (
+        <>
+            <div>
+
+uhuhdujnew
+            </div>
+        </>
+    )
 }
 
 export default Home

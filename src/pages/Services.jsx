@@ -1,6 +1,7 @@
 import Girl from "../Components/Girl";
 import Last from "../Components/Last";
 import Lists from "../Components/Lists";
+import Ourservices from "../Components/Ourservices";
 import OurservicesCard from "../Components/OurservicesCard";
 import Service1 from "../assets/Service1.jpg"
 import Service2 from "../assets/Service2.jpg"
@@ -8,14 +9,14 @@ import Service3 from "../assets/Service3.jpg"
 import Service4 from "../assets/Service4.jpg"
 import Service5 from "../assets/Service5.jpg"
 import Service6 from "../assets/Service6.jpg"
-import Home from "./Home";
+
 
 
 
 const Services = () => {
   return (
     <>
-      <Home />
+      <Ourservices />
 
       {/* Title */}
       <div className="mt-10 mb-6">

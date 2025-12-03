@@ -3,7 +3,17 @@ import React from 'react'
 const Button = () => {
   return (
     <>
-    <button className='bg-yellow-500 text-white'>SUBMIT</button> 
+    <div className='grid grid-cols-2 px-10 gap-4'>
+      <div className='bg-white rounded-full'>
+         <input type="text" placeholder='Enter a valid email address' className='text-black'/>
+    </div>
+    <div>
+         <button className='bg-yellow-500 text-white rounded-full'>SUBMIT</button> 
+    </div>
+ 
+    </div>
+    
+ 
      
     </>
   )

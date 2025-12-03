@@ -3,7 +3,7 @@ import girl from '../assets/girl.jpg'
 const Girl = () => {
   return (
     <>
-      <div>
+      <div className='px-10'>
 <div>
     <img src={girl} className='rounded-full' alt="girl" />
 <h4 className='font-bold'>Stella Hudson</h4>
