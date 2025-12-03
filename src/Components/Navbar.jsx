@@ -22,7 +22,7 @@ const Navbar = () => {
           </div>
           <div className='grid grid-cols-2 gap-6 text-right'>
 <div>
-            <Link to={"service"} >service</Link>
+            <Link to="/" >service</Link>
           </div>
           <div>
             <Link to={"Contact"} >contact</Link>
