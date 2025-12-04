@@ -25,7 +25,7 @@ const Navbar = () => {
             <Link to="/" >service</Link>
           </div>
           <div>
-            <Link to={"Contact"} >contact</Link>
+            <Link to={"Contact"} className='px-8'>contact</Link>
           </div>
           </div>
           

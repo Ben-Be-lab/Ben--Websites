@@ -6,7 +6,7 @@ const Last = () => {
     <>
       <div>
         <div className="h-[100vh] bg-cover bg-right bg-gray text-white py-10" style={{ backgroundImage: `url(${last})` }}>
-          <div className='px-10 w-1/2'>
+          <div className='px-10 w-1/2 text-black'>
             <h2 className='font-bold text-5xl mt-10 py-6'>Transform Your Space with Our Cleaning Magic</h2>
             <p className='py-6' >Sample text. Click to select the Text Element.</p>
           </div>
